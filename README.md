@@ -8,7 +8,8 @@
 ![image](https://github.com/user-attachments/assets/472d22a9-dd02-4cbb-b6ff-86fcc5657e3e)
 
 ## нажимаю F12 и проверяю ввывод в консоли 
- 
+ ![image](https://github.com/user-attachments/assets/adb47fb4-c410-4a75-9d3c-4d12ee451459)
+
 # Пример кода:
 ![image](https://github.com/user-attachments/assets/1a6b39c2-dcc7-4ca7-9518-074a892a312c)
 # Отоброжение в консоли:
